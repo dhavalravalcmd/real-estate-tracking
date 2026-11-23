@@ -6,5 +6,5 @@
    No Meta Pixel ID or GA4 Measurement ID belongs in this site:
    configure those inside GTM. */
 window.SURAT_HOMES_CONFIG = {
-  GTM_ID: 'GTM-XXXXXXX'
+  GTM_ID: 'GTM-P553BTZ4'
 };
